@@ -1,0 +1,642 @@
+{
+  "course_code": "C904",
+  "title": "Leadership Masterclass",
+  "version": "v4.0",
+  "files": {
+    "activities/README.md": {
+      "md5": "430dbc671fd06c7707e68526e8213036",
+      "sha256": "e014870f4e68c414eefcd43a4a9cf030d6bf16d14ffc15905f18798d54d668dd",
+      "bytes": 2596
+    },
+    "activities/activity-01-leadership-behaviour-snapshot/README.md": {
+      "md5": "16910662c1247e44277fecd15150b62f",
+      "sha256": "344b7ded4177073d684341dc268f336b680e390b4822e74ba6a46cfb5c30c455",
+      "bytes": 2428
+    },
+    "activities/activity-01-leadership-behaviour-snapshot/activity-guide.pdf": {
+      "md5": "31a69748737047ee588dcf06d485919c",
+      "sha256": "a3aad39220684e5f87597df4b83aeea4fc2df6943ba2d46044060dce9caf4023",
+      "bytes": 3645
+    },
+    "activities/activity-01-leadership-behaviour-snapshot/checklist.md": {
+      "md5": "042ca8cb6ce6e450464892c02586a93a",
+      "sha256": "31924d779dd3dc3b0a229a48cd95488569e73012895b67e06e9100a1bb0ed709",
+      "bytes": 530
+    },
+    "activities/activity-01-leadership-behaviour-snapshot/checklist.pdf": {
+      "md5": "1a26f63851fa8dfb2a6ff04e8d215660",
+      "sha256": "02a4bce7847113cb03aef22eef5a5f10177a929c47ea39029c6df235d371fcdf",
+      "bytes": 2229
+    },
+    "activities/activity-01-leadership-behaviour-snapshot/sample-completed-worksheet.docx": {
+      "md5": "bae4f7023c45b31cd209161614113894",
+      "sha256": "e1c28df04ce153376d8eadf20f931ca05a454a5fcbaad57866d8cae34f8bb739",
+      "bytes": 37129
+    },
+    "activities/activity-01-leadership-behaviour-snapshot/sample-completed-worksheet.pdf": {
+      "md5": "9b1e7be8bd1ca22d5aa1777bcdde3f8e",
+      "sha256": "93604be1b6b43d9fcd3ba39dfe2577234ce028b382c31aa77f7a5c4265662773",
+      "bytes": 2390
+    },
+    "activities/activity-01-leadership-behaviour-snapshot/scenario.md": {
+      "md5": "d0252af22de8b537339b5d612d8d938c",
+      "sha256": "8baa903729c39cba20bce1199c82746c998192bf92e3787d164afa318429dfe5",
+      "bytes": 339
+    },
+    "activities/activity-01-leadership-behaviour-snapshot/worksheet.docx": {
+      "md5": "9e938bdcf2998b0077f2ddf9042ec7b4",
+      "sha256": "701a27e4c11b033bc90cd9b1d20e61de8a10006af7429166ec28e8a8121a4626",
+      "bytes": 36997
+    },
+    "activities/activity-01-leadership-behaviour-snapshot/worksheet.pdf": {
+      "md5": "1765ac25cbc803e688aaedc1d78617a2",
+      "sha256": "b661eeea80947cc951be798cef376dedc585be73ec1dd11579cb52db61f9af24",
+      "bytes": 2763
+    },
+    "activities/activity-02-mission-and-change-roleplay/README.md": {
+      "md5": "c8b997c3eae499951a8c92321d79dbe3",
+      "sha256": "a9421f5f50d234d6e48fa7fc181eb9c85fd4356a93a497d4573f5e50566846fc",
+      "bytes": 2444
+    },
+    "activities/activity-02-mission-and-change-roleplay/activity-guide.pdf": {
+      "md5": "947776d76db8d98fffea0574284581ba",
+      "sha256": "c109743134fcc94c1612a167eb291e1bf6f58da24174122f9d5c233e81920ed4",
+      "bytes": 3704
+    },
+    "activities/activity-02-mission-and-change-roleplay/checklist.md": {
+      "md5": "2f7d1ca3b5d65843d3eead25a437e6cc",
+      "sha256": "d28641264ffd4510ec9b3ef314497297371f64e639140eb6fda1ee0e54b28c93",
+      "bytes": 550
+    },
+    "activities/activity-02-mission-and-change-roleplay/checklist.pdf": {
+      "md5": "350ebc77351979ae43b0f074b3e85083",
+      "sha256": "c36fd24657e717f3311829f59b0e7fe4196bf608050b808433cebe0ba6e2b31c",
+      "bytes": 2232
+    },
+    "activities/activity-02-mission-and-change-roleplay/original-practice-context.md": {
+      "md5": "da488de5b3291f18753845ce4f0af98e",
+      "sha256": "9d9192bf908eaecb58f50a1418620efbcbb495a7433feefc9a0f275413dc8a06",
+      "bytes": 553
+    },
+    "activities/activity-02-mission-and-change-roleplay/original-practice-context.pdf": {
+      "md5": "e0ea172a378ec53d4466bcb284c26771",
+      "sha256": "c118ac20c5a4a5b8e573104f3a92f6e01574acde1cdd44614a34ca601c20abe0",
+      "bytes": 2145
+    },
+    "activities/activity-02-mission-and-change-roleplay/sample-completed-worksheet.docx": {
+      "md5": "c49c84e7c983d51ee710a874d7cfac38",
+      "sha256": "b8f8fe77383f1fd23fd3135c08ebdfeaacc560371f3dd3245c5de38ed6b7db57",
+      "bytes": 37115
+    },
+    "activities/activity-02-mission-and-change-roleplay/sample-completed-worksheet.pdf": {
+      "md5": "5938e731ee948892c6c3c79ca15f6d6b",
+      "sha256": "3296c063cfc4d7ce0687c48e846c679c1aeb6e731bfdbf16cc0237ae737957de",
+      "bytes": 2374
+    },
+    "activities/activity-02-mission-and-change-roleplay/scenario.md": {
+      "md5": "9b68850544ed8a4e79e826176ce963f1",
+      "sha256": "41a15e8ab48d00a12688534bf64ddab9d783f26ddc961a5cd847254cf811d16f",
+      "bytes": 351
+    },
+    "activities/activity-02-mission-and-change-roleplay/worksheet.docx": {
+      "md5": "e2ad1ee737ce546c736fb8b1e8a4e1f0",
+      "sha256": "50c161b8eacb47fd0aeb0782db205f95ee42db10896f9d8dd543f3149708d2fa",
+      "bytes": 36994
+    },
+    "activities/activity-02-mission-and-change-roleplay/worksheet.pdf": {
+      "md5": "1825d21105d78e58fbdab55b159cbe8e",
+      "sha256": "a710c96388334b39e8d261fbc338500c726eb64495b7da36effc0c6057b7e9a5",
+      "bytes": 2767
+    },
+    "activities/activity-03-active-listening-triads/README.md": {
+      "md5": "ca4e02dad066853b1960d935a49523ff",
+      "sha256": "86c38cff484b9fba2f17e6d4ca337eb0b99e5a8c1e6c29a375a62fe50cad167b",
+      "bytes": 2405
+    },
+    "activities/activity-03-active-listening-triads/activity-guide.pdf": {
+      "md5": "dcd1206a476f459c0c9af4ce14e4a8ca",
+      "sha256": "366ca61f03b58c8e14bb87ea57b5795d5f7fc0619bd954dfa972c4c8013c396e",
+      "bytes": 3618
+    },
+    "activities/activity-03-active-listening-triads/checklist.md": {
+      "md5": "1217a6546cdca2fc76fa7cda07606d70",
+      "sha256": "f91aaf89cbdfcd8ce0b743efdb7efe0f47ff3537bee465dc135e28b5f3b16b65",
+      "bytes": 570
+    },
+    "activities/activity-03-active-listening-triads/checklist.pdf": {
+      "md5": "38d82e7e130d878a29c4c431e1fe5062",
+      "sha256": "d738bac992e4ad76eda82ebabd60224abf830658e3b019a42b6d77131070397a",
+      "bytes": 2270
+    },
+    "activities/activity-03-active-listening-triads/sample-completed-worksheet.docx": {
+      "md5": "76b1000b1718279f3a86b572fbadd6c6",
+      "sha256": "d06afd0be58bf4b412fb3e8b39e054020b970748fc75aa2d9400ec490dd7fe2f",
+      "bytes": 37131
+    },
+    "activities/activity-03-active-listening-triads/sample-completed-worksheet.pdf": {
+      "md5": "b85476620a9667c12d52a6f57540c35c",
+      "sha256": "4d271a03cb865a5a732e624831fe06c302e625c907464c4d21bd6856c4729457",
+      "bytes": 2365
+    },
+    "activities/activity-03-active-listening-triads/scenario.md": {
+      "md5": "df1ec274a4f4ea9fa2e986094565c6b7",
+      "sha256": "43726b724b4fd5aa621a7f00c8ade73c9eafeb136cbd56475be9b2326e283840",
+      "bytes": 331
+    },
+    "activities/activity-03-active-listening-triads/worksheet.docx": {
+      "md5": "affa113ebb254b477e3b145cbf736a00",
+      "sha256": "7779807b52f3ca5a43d8c412175a35018c52e59df3e1c54e7c4def862348384b",
+      "bytes": 36998
+    },
+    "activities/activity-03-active-listening-triads/worksheet.pdf": {
+      "md5": "be6a6991e70f5422ef2eabb2d97d72a8",
+      "sha256": "d75fe3c902c8415a01abf0df7841c2049e64207ddf275985469cde17ab6d7678",
+      "bytes": 2757
+    },
+    "activities/activity-04-feedback-and-handover-agreement/README.md": {
+      "md5": "19432332ea53ad679c958b9bc6781dbc",
+      "sha256": "04f833bebf9c2745b7b92ba92d45070672ca117cbaee0a23ba2dc774763cf8cb",
+      "bytes": 2407
+    },
+    "activities/activity-04-feedback-and-handover-agreement/activity-guide.pdf": {
+      "md5": "9dfad2904af6ded089d66fb8069867a2",
+      "sha256": "d37d92da0ad97ce73b2fe8c301f5181f41238af682b756c8d82ae161acf64a34",
+      "bytes": 3660
+    },
+    "activities/activity-04-feedback-and-handover-agreement/checklist.md": {
+      "md5": "8b72624d3fd63589c9c06b590058b227",
+      "sha256": "ca909b7621f177dc6b94b0670e93a80f56764cf2e5943ba55a31d55228721fd5",
+      "bytes": 585
+    },
+    "activities/activity-04-feedback-and-handover-agreement/checklist.pdf": {
+      "md5": "715844f96f7842e381c77aca44a92333",
+      "sha256": "402d5759d995788242dae49e1681b7e902418f49db29666844acb8cd9fe56ac9",
+      "bytes": 2268
+    },
+    "activities/activity-04-feedback-and-handover-agreement/original-practice-context.md": {
+      "md5": "a0c9041d7c5d174f2f02d5446c4b6c21",
+      "sha256": "83b20f2a077b454628a4e2dbf2dbacd2ec461b3e20f68b9040afcd4fb62dd976",
+      "bytes": 679
+    },
+    "activities/activity-04-feedback-and-handover-agreement/original-practice-context.pdf": {
+      "md5": "3b673576622a315dc2887e4abed5f115",
+      "sha256": "5f1d51bff166c57feef5c498a3295e58bc386f010675b0c8808544975e27962c",
+      "bytes": 2219
+    },
+    "activities/activity-04-feedback-and-handover-agreement/sample-completed-worksheet.docx": {
+      "md5": "21429efad471ad7a4eedfd68ddef6345",
+      "sha256": "e9d0c9963f19547584cad4c61078699a99d9d58307b67456860223a9a4b333df",
+      "bytes": 37093
+    },
+    "activities/activity-04-feedback-and-handover-agreement/sample-completed-worksheet.pdf": {
+      "md5": "399a77fb79c0dc8ed5a222f4facb72dc",
+      "sha256": "063dacc7d6c45fe94c4b8061390e84b758449ceb0088c2173014c2d697c1571b",
+      "bytes": 2353
+    },
+    "activities/activity-04-feedback-and-handover-agreement/scenario.md": {
+      "md5": "2de7b6d5f0d4a23fb686f9d4f2a83924",
+      "sha256": "bd5f92642b5ff23e0f7f4e653f3321e0e3da8632b89e0c30bd3ce825694802a5",
+      "bytes": 336
+    },
+    "activities/activity-04-feedback-and-handover-agreement/worksheet.docx": {
+      "md5": "21bbd02ee889a82f10df43aaa84a2d8d",
+      "sha256": "375b27b00101e2a7b5570c378753cbf222ec0965cb98201c51af6be53f6dbb79",
+      "bytes": 36992
+    },
+    "activities/activity-04-feedback-and-handover-agreement/worksheet.pdf": {
+      "md5": "1ee5c79a060418d833889d973a84f03f",
+      "sha256": "808c70deb20338786e08c5a112af17488b56e0b93fe44fb807d09ad5111edad9",
+      "bytes": 2855
+    },
+    "activities/activity-05-evidence-and-decision-matrix/README.md": {
+      "md5": "ef526834a50fd21e5d5e3124e5ced253",
+      "sha256": "65405b4d3a41b1f059cf760ef5319e5a78c80e5c1d5777cf84cce1f4f6227e09",
+      "bytes": 2417
+    },
+    "activities/activity-05-evidence-and-decision-matrix/activity-guide.pdf": {
+      "md5": "baff08ea8f007feed30fcf59347bb97e",
+      "sha256": "8d513740fb3f49cb9e15a6a335280a654ce6468bf4c9c9c3d9744dd383d83d0d",
+      "bytes": 3696
+    },
+    "activities/activity-05-evidence-and-decision-matrix/checklist.md": {
+      "md5": "b1dbcecee1485edbfeaa240635502c61",
+      "sha256": "b70761c91ab46ec37caecf1c4af7ab83a6eeb04b5a0fd9ca06c27edbb5b12be1",
+      "bytes": 592
+    },
+    "activities/activity-05-evidence-and-decision-matrix/checklist.pdf": {
+      "md5": "6a553a1e231f9663e18aaf3016ed54b4",
+      "sha256": "fc11a1d579e504d420605f4b92d63826c74dc7824302d06d0d25640008d04918",
+      "bytes": 2280
+    },
+    "activities/activity-05-evidence-and-decision-matrix/sample-completed-worksheet.docx": {
+      "md5": "34eee1d6cca9ad9f15d5ccd5e7879cac",
+      "sha256": "de4de776342206ba242775ebd9d462eba44d756768c9242f92169f4bbc58fe4c",
+      "bytes": 37368
+    },
+    "activities/activity-05-evidence-and-decision-matrix/sample-completed-worksheet.pdf": {
+      "md5": "e623be909089217fb3c7410409ef9ed3",
+      "sha256": "a5ba5f8d67c0f8b8c6e8b3588117075e0ac3e1f184c8c843cb261b471220ea13",
+      "bytes": 2688
+    },
+    "activities/activity-05-evidence-and-decision-matrix/scenario.md": {
+      "md5": "ed53b8811b430f4b43b546a35df72e6f",
+      "sha256": "fc1778cc8cddbfbf8339e1231ad7004e77f91cf9deec9fbcf5d705987b46e3da",
+      "bytes": 362
+    },
+    "activities/activity-05-evidence-and-decision-matrix/worksheet.docx": {
+      "md5": "ac9b64147786cd76523991eff570f1c8",
+      "sha256": "4538bba5481f0d3b7fab39ec925af14b301ad5196d9c5d0bc4337f41c32bd024",
+      "bytes": 37074
+    },
+    "activities/activity-05-evidence-and-decision-matrix/worksheet.pdf": {
+      "md5": "44c10163b66226a064f69c827217cc57",
+      "sha256": "e72b8b9911a731c1543fa6690b01232576e72de33fce2cfea392f67d354685ad",
+      "bytes": 2963
+    },
+    "activities/activity-06-ethical-decision-and-premortem/README.md": {
+      "md5": "7426021a1094e4282b59936812faad8d",
+      "sha256": "4933e3cc5880b9a8db087a3acfca9ae06efad71d9b67e53b9e5e7ee853474361",
+      "bytes": 2452
+    },
+    "activities/activity-06-ethical-decision-and-premortem/activity-guide.pdf": {
+      "md5": "debae22ec2e776fb4c8e75cf3b65c272",
+      "sha256": "6cd07eb67631ecf34807b64193e7d5409ad50e18722bb1a378ce862584ae7325",
+      "bytes": 3745
+    },
+    "activities/activity-06-ethical-decision-and-premortem/checklist.md": {
+      "md5": "f29419d17118cfd072f1382b5233f574",
+      "sha256": "f8cc4521033fb4feed86d972c64c43b191ff055e9e32f7431e859af5eb65ea2f",
+      "bytes": 580
+    },
+    "activities/activity-06-ethical-decision-and-premortem/checklist.pdf": {
+      "md5": "f6c28eab2d65f5f43d56c105cd57aee5",
+      "sha256": "6061acf341fc24f199e141e828b1ef7045da8c4a2b43ca4580ce048eea24da3e",
+      "bytes": 2277
+    },
+    "activities/activity-06-ethical-decision-and-premortem/original-practice-context.md": {
+      "md5": "5ca5832d307df1b3e0400db737c54bd5",
+      "sha256": "cfea737e75ba5fa14a5b4d387f7fe7c8ae66029924b0240d876abf42d96455a2",
+      "bytes": 488
+    },
+    "activities/activity-06-ethical-decision-and-premortem/original-practice-context.pdf": {
+      "md5": "a6334479c784e285dec252e7ecbf68a2",
+      "sha256": "0795fe99f7dd4b1f20ab3621843e656d2bab53df9cef8f28a2c4af797fa50ac3",
+      "bytes": 2085
+    },
+    "activities/activity-06-ethical-decision-and-premortem/sample-completed-worksheet.docx": {
+      "md5": "cadf66e5e60cdd4a640977bd929c0fc6",
+      "sha256": "e0d83fab2e8af8e471813fb8abfb63d3c422a115462b5e8ff914717b28f9307b",
+      "bytes": 37130
+    },
+    "activities/activity-06-ethical-decision-and-premortem/sample-completed-worksheet.pdf": {
+      "md5": "9b8d1e92599681a02d4084bc89f13754",
+      "sha256": "af9b4feb534deee35d3807cee05b65f3f59afaf9e5eeda0a3584ac9f07381685",
+      "bytes": 2400
+    },
+    "activities/activity-06-ethical-decision-and-premortem/scenario.md": {
+      "md5": "f3203a87295566ffadcb7e22b273a8c2",
+      "sha256": "682c772cedfe896bee4b778ef60a60a81d3baa23b7358ce16588f54624fe676c",
+      "bytes": 333
+    },
+    "activities/activity-06-ethical-decision-and-premortem/worksheet.docx": {
+      "md5": "805a9c315ed09991f489b59e7ff8453c",
+      "sha256": "e95b0356145df19d1370f33698716b0bd3c3b7fbc7ed4364dcb3a81a545fd73e",
+      "bytes": 37022
+    },
+    "activities/activity-06-ethical-decision-and-premortem/worksheet.pdf": {
+      "md5": "66f5db5f345a1b14cfe0b38ac293b20a",
+      "sha256": "aa668cd3f495e19fd969712007302b947aade88cb58994946938c4009522425f",
+      "bytes": 2883
+    },
+    "activities/activity-07-motivation-and-smart-goal-canvas/README.md": {
+      "md5": "4b27d1e5427a903628c9a01151852ee0",
+      "sha256": "e0180757946cf6acc80c4da1c5ff0a8e863bbe7a8759ec240cc4ba53fea76198",
+      "bytes": 2465
+    },
+    "activities/activity-07-motivation-and-smart-goal-canvas/activity-guide.pdf": {
+      "md5": "ce467cd6fd3a161de9588418fdc4daa6",
+      "sha256": "28b2adbf11bb53facb13deb76e6cb4ad46818aceb6c3fa09302c0c4715bce2ee",
+      "bytes": 3725
+    },
+    "activities/activity-07-motivation-and-smart-goal-canvas/checklist.md": {
+      "md5": "4d5fcd0dc74529ef5547e7faced77188",
+      "sha256": "68cb5ad962e8ee666a79c79e728625ca735221c1146cd52545987791618d73f1",
+      "bytes": 541
+    },
+    "activities/activity-07-motivation-and-smart-goal-canvas/checklist.pdf": {
+      "md5": "32bbf01a84a6f5af65aa26cfac629c61",
+      "sha256": "2ea3b932f5a8ad58923e36d580bb38ccc6baf956f09d6e9d744343ec4f63c681",
+      "bytes": 2250
+    },
+    "activities/activity-07-motivation-and-smart-goal-canvas/sample-completed-worksheet.docx": {
+      "md5": "9ef7c525b4c4ef0b162b041eccbff28a",
+      "sha256": "d9b2de0c3a463385b49f434673adda2e25928ac0565e1c95ec2e157e3c9d2c04",
+      "bytes": 37102
+    },
+    "activities/activity-07-motivation-and-smart-goal-canvas/sample-completed-worksheet.pdf": {
+      "md5": "e5866b49aeeca1e974ade209483f500b",
+      "sha256": "280e6b8e4e8f76bdee76a432476ce74c908ba2e5d8fecbb354d80e4e5377ec9e",
+      "bytes": 2345
+    },
+    "activities/activity-07-motivation-and-smart-goal-canvas/scenario.md": {
+      "md5": "32c77d7e50c12dab944beadeeebf2fdc",
+      "sha256": "47c10ce89a6b0c69e4819903e5072fbee54f2654c2f4eb284ace1726d3ab0cf2",
+      "bytes": 361
+    },
+    "activities/activity-07-motivation-and-smart-goal-canvas/worksheet.docx": {
+      "md5": "faf862c27f5bce8f619e37cb08178b26",
+      "sha256": "971a0280e6f0844d07ede42c1c1ee79cb8a31cce39484e8834ba9dd877380c25",
+      "bytes": 36997
+    },
+    "activities/activity-07-motivation-and-smart-goal-canvas/worksheet.pdf": {
+      "md5": "9111695ba819ed470361cb2a28c47f73",
+      "sha256": "b39c1c0dc8aefe7d12b74ac831b2087c0bcf27bcefcd63c470c5af726e7d3d5a",
+      "bytes": 2860
+    },
+    "activities/activity-08-coaching-and-performance-conversation/README.md": {
+      "md5": "96dcbc42f5b12e815e4f1d2c30e394a0",
+      "sha256": "2ab7ff879741efb04f32df050d69ffc2751b04b47545d06270664ea2a983766a",
+      "bytes": 2417
+    },
+    "activities/activity-08-coaching-and-performance-conversation/activity-guide.pdf": {
+      "md5": "bf30db066f2a5ca0d261bb3a6d576a9a",
+      "sha256": "a20641594f09139bd4044ba532eb0230d8888a0ae1468f397a24341b1f4afe07",
+      "bytes": 3731
+    },
+    "activities/activity-08-coaching-and-performance-conversation/checklist.md": {
+      "md5": "b0664d58457d8943b2555a22af08c1d8",
+      "sha256": "bc4ca4cc53d1427760399367eb62e7c892789d2ea5dcba70bc6f687693b6458d",
+      "bytes": 526
+    },
+    "activities/activity-08-coaching-and-performance-conversation/checklist.pdf": {
+      "md5": "6df6f1e1b3be9bfd484e82159c45a923",
+      "sha256": "17e5e251fe4c8d6e5e08c1089cbe3c3a3b5cc564baa31abfcc8b73c77da52a69",
+      "bytes": 2273
+    },
+    "activities/activity-08-coaching-and-performance-conversation/original-practice-context.md": {
+      "md5": "3b67e1b5e7da13c7931ec67d99df1e7d",
+      "sha256": "64674f88f0c8fdc7879d6a9809cf38e7b2a6d03b7b1722165e7e18662b72c11d",
+      "bytes": 281
+    },
+    "activities/activity-08-coaching-and-performance-conversation/original-practice-context.pdf": {
+      "md5": "0ddb2f9e52f70afc73f259eb3356b58a",
+      "sha256": "936b5a5237bbabcef49824fe42e2d8d81d0c8f071e197da87f9a9b7ccb9dfad3",
+      "bytes": 1924
+    },
+    "activities/activity-08-coaching-and-performance-conversation/sample-completed-worksheet.docx": {
+      "md5": "801bc1e248cf6d264973ec575cfde8c4",
+      "sha256": "45bc788f113f744cebb6c4e1d5cc167f70a7ccb79e8424858c944aa635310708",
+      "bytes": 37126
+    },
+    "activities/activity-08-coaching-and-performance-conversation/sample-completed-worksheet.pdf": {
+      "md5": "b14f3112d7c1b5a3759e1ec473fc5ba1",
+      "sha256": "93f105f0619bc17c7a049124a1d955e01c7dd80f566ee1e5b8e7852ed3754a86",
+      "bytes": 2385
+    },
+    "activities/activity-08-coaching-and-performance-conversation/scenario.md": {
+      "md5": "9f75eea2987d7de202fdbe65cbe936f2",
+      "sha256": "06b7ebff247cefa9822f5bd250eb6ef90be0d009d345ef8b57d268e92323658e",
+      "bytes": 343
+    },
+    "activities/activity-08-coaching-and-performance-conversation/worksheet.docx": {
+      "md5": "ead75ed30cac0541bc32e83bf6b6f9e4",
+      "sha256": "e17ac49f92cf89dd62e987d111aeb3cebd1d7a49b85261c68c149d4887744f21",
+      "bytes": 37018
+    },
+    "activities/activity-08-coaching-and-performance-conversation/worksheet.pdf": {
+      "md5": "38b092cb717494b91ce8dcd0711ba70a",
+      "sha256": "8c853400e98533fc3193937abd7eebbd81e16073771b48088ddcf6854ecab49a",
+      "bytes": 2881
+    },
+    "activities/activity-09-conflict-diagnosis-and-resolution/README.md": {
+      "md5": "28579bedf564392a25b8c241214beca0",
+      "sha256": "999151e8e242039011c6790580b9703942eb682481654b785611671cdea0c503",
+      "bytes": 2404
+    },
+    "activities/activity-09-conflict-diagnosis-and-resolution/activity-guide.pdf": {
+      "md5": "16625486902c9206e34443245fbedb6b",
+      "sha256": "3cb6edffa71565215c8a9cb34f3c4ac99a0c87d21b152de2a4a12965e8d454b0",
+      "bytes": 3710
+    },
+    "activities/activity-09-conflict-diagnosis-and-resolution/checklist.md": {
+      "md5": "6f45efc8b0c3b0d0444d23c962bc5b0c",
+      "sha256": "76bc2c134b11c8ac7c355cee1eb72ce4846cc9f7a0741760beab3ed61d2ca6e7",
+      "bytes": 545
+    },
+    "activities/activity-09-conflict-diagnosis-and-resolution/checklist.pdf": {
+      "md5": "1a64923bc6577629e373909c81b0f25e",
+      "sha256": "d881b6893ffe51f8f4a613b0bf97a3c24569476d605f317bfac1375499ec836d",
+      "bytes": 2248
+    },
+    "activities/activity-09-conflict-diagnosis-and-resolution/sample-completed-worksheet.docx": {
+      "md5": "b20c6ca818241c67bf2a0d0aa9502c0d",
+      "sha256": "6afdb522b6a6c352e070e41fd54d114a1181a493c8881184a3df7afe0cfa2429",
+      "bytes": 37148
+    },
+    "activities/activity-09-conflict-diagnosis-and-resolution/sample-completed-worksheet.pdf": {
+      "md5": "7fa01fdd0056e23e49906b5d0b0af1c4",
+      "sha256": "04b334be9cd661f69d0641974c3930d769a324f559abc5b9c2647d13abe255f2",
+      "bytes": 2431
+    },
+    "activities/activity-09-conflict-diagnosis-and-resolution/scenario.md": {
+      "md5": "f126627b71dba406c8c1920138bb223e",
+      "sha256": "192a861b06f020dd79118809181f9fdeb50d99b5c19b7e15c24575c5a7533836",
+      "bytes": 354
+    },
+    "activities/activity-09-conflict-diagnosis-and-resolution/worksheet.docx": {
+      "md5": "e6dab430165141154f616d76cfb5b340",
+      "sha256": "835437f6c31fe794ee81d2bac68d51c8b07b0a1512af278c1236b82dfeec33a8",
+      "bytes": 37025
+    },
+    "activities/activity-09-conflict-diagnosis-and-resolution/worksheet.pdf": {
+      "md5": "453964031a0b010763c718402cd8881b",
+      "sha256": "3b28bd6ac6f2452069ce4422beeeaede77244d0b7fa80420c54443042ccf5c45",
+      "bytes": 2904
+    },
+    "activities/activity-10-interest-based-negotiation/README.md": {
+      "md5": "a97d1b0655dd03a370ee1bad338b0ed6",
+      "sha256": "e2f686abf96e1388cc1fea920c7478a12ba7a6faadfc75d3b1d6255a1097a1e2",
+      "bytes": 2403
+    },
+    "activities/activity-10-interest-based-negotiation/activity-guide.pdf": {
+      "md5": "d1906c5a9a1f55e640665ed12f8e263f",
+      "sha256": "e8d719670e232e5090c5e9aef296df48e2c8dc2a8a8cb8fa940417f55e235a41",
+      "bytes": 3660
+    },
+    "activities/activity-10-interest-based-negotiation/checklist.md": {
+      "md5": "ab14238dd077310ec46110c0223a092c",
+      "sha256": "24844912f69644be448b93be45a61e2668335dc0f22a7f6dff744ee1579df7fb",
+      "bytes": 585
+    },
+    "activities/activity-10-interest-based-negotiation/checklist.pdf": {
+      "md5": "50f8dabe1549355e70793fd61e277ad5",
+      "sha256": "f7203aa41a795cbb967e03c35faad66a32343a00b960dc4851d9e525e41b5fd3",
+      "bytes": 2269
+    },
+    "activities/activity-10-interest-based-negotiation/original-practice-context.md": {
+      "md5": "c5107cb4af06cac4df109e84f88fb9cf",
+      "sha256": "a003b87c0d56927a6101255425797f0414ae5b924a885785d1873a2336d1d037",
+      "bytes": 509
+    },
+    "activities/activity-10-interest-based-negotiation/original-practice-context.pdf": {
+      "md5": "083d31445ea545a955de5bf3014c17c9",
+      "sha256": "be84751abcc18523c211c7016189a6569d86ed16022878298881a4c927ef282f",
+      "bytes": 2118
+    },
+    "activities/activity-10-interest-based-negotiation/sample-completed-worksheet.docx": {
+      "md5": "43ab05715e675bbce308c1510e393a9c",
+      "sha256": "1925e19ee4fe87bfa2bd498c8c564353f0e8d3be7f1723f4d30d705b3f03152f",
+      "bytes": 37096
+    },
+    "activities/activity-10-interest-based-negotiation/sample-completed-worksheet.pdf": {
+      "md5": "95450542c7568bc6a47c2d7dd8dc2a6a",
+      "sha256": "efb51dbf4601a673b08cc3df28c16cb591b43a5f30885df922ae21ecebca121d",
+      "bytes": 2339
+    },
+    "activities/activity-10-interest-based-negotiation/scenario.md": {
+      "md5": "7676b105c1b8253c768519116e2896e8",
+      "sha256": "3a96f12e24fad215524025dd99e090f5224656b8070f889a91ea8bef75231702",
+      "bytes": 340
+    },
+    "activities/activity-10-interest-based-negotiation/worksheet.docx": {
+      "md5": "49dde763b24992acbd0c4fc03a8490ed",
+      "sha256": "15e536de88f81842a3c2b69709db7cf40d3ce8fc180263ffa0ab5a8b0269e70d",
+      "bytes": 36994
+    },
+    "activities/activity-10-interest-based-negotiation/worksheet.pdf": {
+      "md5": "182ece6476a5f0fe67e0201120516d90",
+      "sha256": "7c571d4842d620d5b89af9705d80cdeb15819e2e5787247786958d72faeab1cc",
+      "bytes": 2864
+    },
+    "activities/activity-11-inclusive-team-charter-and-delegation/README.md": {
+      "md5": "f692e3424f3cb69acc064bf20b4325cd",
+      "sha256": "1a3e380db22deb945b0683eebd147ac7a91bd3293fae68355d4453c74305ea94",
+      "bytes": 2478
+    },
+    "activities/activity-11-inclusive-team-charter-and-delegation/activity-guide.pdf": {
+      "md5": "d4ff8e66feac55e4d59ca88b05d31b4f",
+      "sha256": "34f5149042bf1ccb3e0763c89ff85c8776af602570b647b5dca454efb861a4d0",
+      "bytes": 3702
+    },
+    "activities/activity-11-inclusive-team-charter-and-delegation/checklist.md": {
+      "md5": "1915b10bcc358833551c69056697352e",
+      "sha256": "a7e338878a77f41d3e0971e364a90828ff5dc64173e67fadf765205c377193b4",
+      "bytes": 600
+    },
+    "activities/activity-11-inclusive-team-charter-and-delegation/checklist.pdf": {
+      "md5": "afa6f6b021974445a69d05ef98c7b4aa",
+      "sha256": "7363a29c7d228499aabf6c6546f86c43ba943a418c34c4854e8d75e1072b9036",
+      "bytes": 2289
+    },
+    "activities/activity-11-inclusive-team-charter-and-delegation/original-practice-context.md": {
+      "md5": "86e80feaaa788504083290cb1ac432f2",
+      "sha256": "ba08a75f99df1b0c3930b497442670b0259ec092b784fb4a932532b68fda7e58",
+      "bytes": 522
+    },
+    "activities/activity-11-inclusive-team-charter-and-delegation/original-practice-context.pdf": {
+      "md5": "b261184306e5149a895ef3f8383e4a1c",
+      "sha256": "12b1a7e1ef48a49185f97368c5f460ddfe1c4cb9f09d2f13d30a111c7f9bb326",
+      "bytes": 2118
+    },
+    "activities/activity-11-inclusive-team-charter-and-delegation/sample-completed-worksheet.docx": {
+      "md5": "37262056dd49deb2e254080f5f01dd09",
+      "sha256": "fc1ee5aa0dcf94b15d451ffcdde0a296ba9e7bd4a718ba607a16b52386d64270",
+      "bytes": 37133
+    },
+    "activities/activity-11-inclusive-team-charter-and-delegation/sample-completed-worksheet.pdf": {
+      "md5": "767aa72a086948f647ab944d509c2794",
+      "sha256": "d6454ae4cc9587632b8854db7bb7a35e070b3564f296d0ee500479231c9eb221",
+      "bytes": 2393
+    },
+    "activities/activity-11-inclusive-team-charter-and-delegation/scenario.md": {
+      "md5": "aa19abf8cd5a1fec083a999e71ce0208",
+      "sha256": "81dd09faefd5180a451a31ed2515a52a24180322f535029a379efc8cc80a4686",
+      "bytes": 332
+    },
+    "activities/activity-11-inclusive-team-charter-and-delegation/worksheet.docx": {
+      "md5": "74e3b17ded37b7c3bb4a66f78e582569",
+      "sha256": "a0c085b3304c4e0ce3bd5fc8255353665306c9c5297157527f75887114a9be75",
+      "bytes": 37011
+    },
+    "activities/activity-11-inclusive-team-charter-and-delegation/worksheet.pdf": {
+      "md5": "e0a6996dbbea9e8ebb176982a74194c3",
+      "sha256": "d7479b634eaf227ab8347011a3824e6134fceb3483859623aa1c8f229e2b88cc",
+      "bytes": 2874
+    },
+    "activities/activity-12-30-day-leadership-development-plan/README.md": {
+      "md5": "496c255a1d5006cc64ec56214297aaa0",
+      "sha256": "ddc5378602ad9bda22a45f9911aa800811430dd3492b14b5e945184a3f683f47",
+      "bytes": 2440
+    },
+    "activities/activity-12-30-day-leadership-development-plan/activity-guide.pdf": {
+      "md5": "2e50678cf6facb99e102498d089988a5",
+      "sha256": "9cf981a053f87e45375c45134ec2f4e0746fa1d11f8cbe2940cded6d49d104ee",
+      "bytes": 3707
+    },
+    "activities/activity-12-30-day-leadership-development-plan/checklist.md": {
+      "md5": "ffc13e1231c9036daada90067a33756c",
+      "sha256": "d65d7d047b4f47b443c72ccd31bd4ed31c531969ac622abc125a100e3cb72266",
+      "bytes": 574
+    },
+    "activities/activity-12-30-day-leadership-development-plan/checklist.pdf": {
+      "md5": "cef8beb18f736a28338c975fbc771c00",
+      "sha256": "050421aa3db758939184fd14bbcb4e449d88efe3d8b7ee89fa8a3924412f0442",
+      "bytes": 2267
+    },
+    "activities/activity-12-30-day-leadership-development-plan/sample-completed-worksheet.docx": {
+      "md5": "5ad49042ba5c147719ac36b2d3fd731c",
+      "sha256": "b4256c5532c55d8236a2e59215c5c2246c1b172b678d41d604bd3507b6014a2e",
+      "bytes": 37117
+    },
+    "activities/activity-12-30-day-leadership-development-plan/sample-completed-worksheet.pdf": {
+      "md5": "ef4382cd0c6dadc9441566fe5b75ec1b",
+      "sha256": "a858e5e993df793edda8fcf396a7037f220f7c18d3e95e1227cc9b890f7ecc27",
+      "bytes": 2369
+    },
+    "activities/activity-12-30-day-leadership-development-plan/scenario.md": {
+      "md5": "0009356b9663d94a3afb54a6745928c6",
+      "sha256": "adef6851ec7362fb01147bdfadad5b4240c09e21e9e28c8545f0871e2c597151",
+      "bytes": 302
+    },
+    "activities/activity-12-30-day-leadership-development-plan/worksheet.docx": {
+      "md5": "2ed2c034ed22b23378470c71731383f0",
+      "sha256": "2c2ccd47959c86dd477eb30591e70db4cc70aa9931d40c13d5ad7c22d5da7e76",
+      "bytes": 36984
+    },
+    "activities/activity-12-30-day-leadership-development-plan/worksheet.pdf": {
+      "md5": "0b46d34294e3427d93d2e7e24f41045f",
+      "sha256": "bf23cecf833f27e7ab1a616864bc870d369f254310d6f5ab46fac2abcc051d20",
+      "bytes": 2851
+    },
+    "courseware/LG-Leadership-Masterclass-C904.docx": {
+      "md5": "722d32f530a5b87e32e16567e3e54e88",
+      "sha256": "20a23d02d968a98aec9535c262d7b0d3642690fd8b81f792577648b48a0ecb94",
+      "bytes": 96692
+    },
+    "courseware/LG-Leadership-Masterclass-C904.pdf": {
+      "md5": "89cd478d9e68994903e1d77974433ff3",
+      "sha256": "d13fe710a130b36257effd9b724daa363e68475903d4268aabe26f0649456ec8",
+      "bytes": 622162
+    },
+    "courseware/LP-Leadership-Masterclass-C904.docx": {
+      "md5": "e2532ca024c7c2f1d545b7288f365b5c",
+      "sha256": "b9e64ed66c2ae5f420c1872b546b223e4a90c5d67da21c39423c2752f0ccc10c",
+      "bytes": 56545
+    },
+    "courseware/LP-Leadership-Masterclass-C904.pdf": {
+      "md5": "032f1b312901852d15620b68bfbf4127",
+      "sha256": "a96933c2152e78747a533c971a8dd7fde9bcfeee1daf06ba187298d4c5711fa6",
+      "bytes": 213976
+    },
+    "courseware/Leadership-Masterclass-C904-v4.0.pdf": {
+      "md5": "cde63371acea930d2e4831ee3fdd0230",
+      "sha256": "b552cee3dd68be7e7413145211c71422cd6b1a821a4cb030c5e35d1383b02b5c",
+      "bytes": 2143707
+    },
+    "courseware/Leadership-Masterclass-C904-v4.0.pptx": {
+      "md5": "de8e7a5aa8c620f83546611fc6dc08c4",
+      "sha256": "1f048748f6481f4fab82487fbf547ddbd8d154819edba04a9b0b5b59b2f3bd53",
+      "bytes": 586146
+    }
+  }
+}

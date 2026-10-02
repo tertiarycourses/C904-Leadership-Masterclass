@@ -14,7 +14,7 @@ The final package was independently reviewed after correction of layout and cont
 | Timing | Per day: 450 instructional minutes, 30 tea-break minutes, 60 lunch minutes |
 | Practice duration | 12 activities at 35 minutes each, with further integrated practice and recap time |
 | Content exclusion scan | Four core text artifacts and all 121 activity files passed |
-| Security scan | 150 candidate text/Office/PDF files; no credential or private-paper match |
+| Security scan | Public text/Office/PDF security scan passed; no credential or private-paper match |
 | Source retention | Original teaching spine and six practice contexts retained; image-only motivation models rebuilt as editable diagrams |
 | Visual corrections | Activity overlap, dense cards, long radial labels and source-panel clipping corrected and rechecked |
 | Worksheet checks | Activity-specific criteria; decision matrix includes both options and sensitivity; missing rating evidence states UNKNOWN |
